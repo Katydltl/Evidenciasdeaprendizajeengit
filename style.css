@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(144, 188, 214);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#contenedor {
+    background-color: white;
+    width: 600px;
+    height: 400px;
+    padding: 10px;
+    border-radius: 16px;
+}
